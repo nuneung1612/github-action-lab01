@@ -1,5 +1,4 @@
 from fizzbuzz import fizzbuzz
-import pytest
 
 def test_num():
     assert 1 == fizzbuzz(1)
